@@ -1,1 +1,1 @@
-# Exploratory-data-analytics-in-hospitality-domain
+# EDA-in-hospitality-domain
