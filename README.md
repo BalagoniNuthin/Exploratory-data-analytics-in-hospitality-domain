@@ -1,4 +1,4 @@
-# AtliQ Hotels Data Analysis Project
+# Data Analysyis for AtliQ Hotels
 
 ## Overview
 
