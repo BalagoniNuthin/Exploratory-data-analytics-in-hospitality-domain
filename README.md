@@ -73,5 +73,5 @@ Using transformed data, we answer the following business questions:
 - Visualizations of revenue by city, hotel type, and booking platform aid in understanding the revenue distribution.
 
 Here are few visuals from the EDA
-1. ![Displayed the bar chart showing The number of bookings made from different booking platforms]()
-2. ![Generated a pie chart of revenue realised per booking platform](https://github.com/BalagoniNuthin/Exploratory-data-analytics-in-hospitality-domain/blob/main/EDA%20files/bar%20chart.jpg)
+1. ![Displayed the bar chart showing The number of bookings made from different booking platforms](https://github.com/BalagoniNuthin/Exploratory-data-analytics-in-hospitality-domain/blob/main/EDA%20files/bar%20chart.jpg)
+2. ![Generated a pie chart of revenue realised per booking platform](https://github.com/BalagoniNuthin/Exploratory-data-analytics-in-hospitality-domain/blob/main/EDA%20files/pie%20chart.jpg)
